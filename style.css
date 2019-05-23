@@ -66,11 +66,11 @@ header h1 {
     border: 1px solid #ccc;
     width: 500px;
     margin: 100px auto auto;
-    background-color: deepskyblue;
-    box-shadow: 2px 2px 3px #ccc;
-    color: white;
-    box-sizing: border-box;
+    background-color: transparent;
+    box-shadow: 2px 2px 3px black;
+    color: blue;
     display: none;
+    border-radius:20px;
     font-weight: bold;
 }
 
